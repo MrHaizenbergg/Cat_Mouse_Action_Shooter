@@ -1,0 +1,26 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class InternationalText : MonoBehaviour
+{
+    [SerializeField] string en;
+    [SerializeField] string ru;
+
+    private void Start()
+    {
+        if (Language.Instance.currentLanguage == "en")
+        {
+            GetComponent<Text>().text = en;
+        }
+        else if (Language.Instance.currentLanguage == "ru")
+        {
+            GetComponent<Text>().text = ru;
+        }
+        else
+        {
+            GetComponent<Text>().text = en;
+        }
+    }
+}

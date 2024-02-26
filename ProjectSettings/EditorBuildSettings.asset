@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_MSK/Scene/HomeScene.unity
+    guid: 896c2fb414d63472fb582086a29c28e5
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/1.unity
+    guid: 98228a3f5165b4cd39600a9c169fb7e1
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/2.unity
+    guid: 04c560e5a6f2f49e88911ef043506517
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/3.unity
+    guid: d78d8a0f26c3a40638a56477a490dcc4
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/4.unity
+    guid: 6d725d04db628426f96410474a4dc87b
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/5.unity
+    guid: 2d0292dde60c04fe2a333dad0bd3d053
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/6.unity
+    guid: 37272d22d3fed474e94a3b897ee8f391
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/7.unity
+    guid: 1d883a4a457374fd1b5fdda028d8eff1
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/8.unity
+    guid: 14e9475f6c9bf4475879dbbd14e5f647
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/9.unity
+    guid: 8722387d13343410db13f55e6ea138eb
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/10.unity
+    guid: 5dc84649b549d4e038aa2f825c5f171a
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/11.unity
+    guid: fe2eef1251b842c4cbad251af977e878
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/12.unity
+    guid: 24c6a33d79b980c429cd76cf8983994f
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/13.unity
+    guid: ca3bd3d8fa47bc341ac9aa9cacf686e2
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/14.unity
+    guid: 15d716fff0ec18443962c8135430df0a
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/15.unity
+    guid: ba7f8378d4aaeb74db55571bb7150e5c
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/16.unity
+    guid: 82dec91af5c17bd419e86672adf1ee8b
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/17.unity
+    guid: 7e6e2d052d1d2344c89332db6189e886
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/18.unity
+    guid: 3a6611a9f38418f48ad04de4d404fbfe
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/19.unity
+    guid: 39fe25725e89846478f3660c1861104b
+  - enabled: 1
+    path: Assets/_MSK/Scene/SpalniaLevels/20.unity
+    guid: ab30856641079a2449a7df7cae331e8d
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ef57210673e715645a501aebe4bd7e55, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 89afdbefb6ed53846a8d3eb9e8a15411, type: 2}
